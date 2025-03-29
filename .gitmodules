@@ -1,0 +1,6 @@
+[submodule "scaler_e-commerce"]
+	path = scaler_e-commerce
+	url = https://github.com/ayushagarwal27/scaler_e-commerce
+[submodule "scaler_e_commerce_auth"]
+	path = scaler_e_commerce_auth
+	url = https://github.com/ayushagarwal27/scaler_e_commerce_auth
